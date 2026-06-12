@@ -26,3 +26,14 @@ This repository contains my DAX learning exercises using Excel Power Pivot.
 - Microsoft Excel
 - Power Pivot
 - DAX
+
+## Screenshots
+
+### Power Pivot Data Model
+![Power Pivot Model](powerpivot-model.png)
+
+### DAX Measures
+![DAX Measures](measures.png)
+
+### Pivot Report
+![Pivot Report](pivot-report.png)
